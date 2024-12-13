@@ -1,8 +1,8 @@
 .navbar {
   display: flex;
   justify-content: space-around;
-  padding: 16px;
-  box-shadow: 0 1px 3px 1px black;
+  padding: 5px;
+  box-shadow: 0 1px 2px 1px black;
 }
 .nav-logo {
   display: flex;
@@ -57,4 +57,17 @@
 }
 .nav-login-cart button:active {
   background: #f3f3f3;
+}
+.nav-cart-count {
+  width: 22px;
+  height: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: -35px;
+  margin-left: -55px;
+  border-radius: 11px;
+  font-size: 14px;
+  background: red;
+  color: white;
 }
