@@ -32,11 +32,11 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 150px auto;
-  height: 69px;
+  margin: 50px auto;
+  height: 60px;
   border-radius: 75px;
   background: #ededed;
-  color: #787878;
+  color: black;
   font-size: 18px;
   font-weight: 500;
 }
