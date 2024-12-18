@@ -58,6 +58,7 @@ const ProductDisplay = (props) => {
         <button
           onClick={() => {
             addToCart(product.id);
+            // console.log("dsmnbf:-", product.id);
           }}
         >
           ADD TO CART
