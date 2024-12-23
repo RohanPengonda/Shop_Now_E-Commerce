@@ -45,9 +45,9 @@ const ProductDisplay = (props) => {
           facilis doloribus sint aut quasi repellendus ab at voluptas
           necessitatibus nam fugiat doloribus quis.
         </div>
-        <div className="productdisplay-right-sizes">
+        <div className="productdisplay-right-size">
           <h1>Select Size</h1>
-          <div className="productdisplay-right-size">
+          <div className="productdisplay-right-sizes">
             <div>S</div>
             <div>M</div>
             <div>L</div>
